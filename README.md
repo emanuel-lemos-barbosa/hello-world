@@ -1,6 +1,6 @@
 # hello-world
 First project
 
-Oi! meu nome é Emanuel
+Oi! My name is Emanuel.
 
-Estou iniciando a programar na linguagem JavaScript voltado ao mundo do front-end junto as ferramentas HTML e CSS.
+I'm beginning programming with the javascript language, focused on the front-end branch, also using the HTML and CSS tools.
