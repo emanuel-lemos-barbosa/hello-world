@@ -1,6 +1,6 @@
 # hello-world
 First project
 
-Oi! My name is Emanuel.
+Hi! My name is Emanuel.
 
 I'm beginning programming with the javascript language, focused on the front-end branch, also using the HTML and CSS tools.
