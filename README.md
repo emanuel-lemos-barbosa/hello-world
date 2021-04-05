@@ -1,5 +1,4 @@
 # hello-world
-First project
 
 Hi! My name is Emanuel.
 
